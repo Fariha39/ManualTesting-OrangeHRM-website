@@ -1,7 +1,7 @@
 # OrangeHRM Manual Testing Project
 
 ## Overview
-This repository contains the deliverables and documentation for the manual testing of the Dmoney website. The project focuses on ensuring that the website meets quality standards through comprehensive test cases, detailed bug reports, and clearly defined acceptance criteria.
+This repository contains the deliverables and documentation for the manual testing of the OrangeHRM website. The project focuses on ensuring that the website meets quality standards through comprehensive test cases, detailed bug reports, and clearly defined acceptance criteria.
 
 ## Table of Contents
 - [Project Scope](#project-scope)
@@ -33,7 +33,19 @@ The testing process is designed as follows:
 1. **Clone the Repository**  
    Clone the repository to your local machine using the following command:
    ```bash
-   git clone https://github.com/Fariha39/ManualTesting-OrangeHRM-website.git
+    https://github.com/Fariha39/ManualTesting-OrangeHRM-website.git
 
  ## Directory Structure
+ OrangeHRMTestingProject/
+├── TestCases/
+│   ├── TestCases.xlsx
+│   
+├── BugReports/
+│   ├── BugReport.xlsx
+
+├── AcceptanceCriteria/
+│   └── AcceptanceCriteria_OrangeHRM.pdf
+├── README.md
+
+
 
