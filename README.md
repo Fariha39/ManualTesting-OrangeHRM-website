@@ -37,15 +37,16 @@ The testing process is designed as follows:
 
  ## Directory Structure
  OrangeHRMTestingProject/
-├── TestCases/
-│   ├── TestCases.xlsx
-│   
-├── BugReports/
-│   ├── BugReport.xlsx
+ ├── TestCases/
+ │   ├── TestCases.xlsx
+ │   
+ ├── BugReports/
+ │   ├── BugReport.xlsx
+ │
+ ├── AcceptanceCriteria/
+ │   └── AcceptanceCriteria_Domoney.pdf
+ ├── README.md
 
-├── AcceptanceCriteria/
-│   └── AcceptanceCriteria_OrangeHRM.pdf
-├── README.md
 
 
 
