@@ -35,19 +35,7 @@ The testing process is designed as follows:
    ```bash
     https://github.com/Fariha39/ManualTesting-OrangeHRM-website.git
 
- ## Directory Structure
- ## Directory Structure
 
-OrangeHRMTestingProject/
-├── TestCases/
-│   ├── TestCases.xlsx
-│   
-├── BugReports/
-│   ├── BugReport.xlsx
-│
-├── AcceptanceCriteria/
-│   └── AcceptanceCriteria_orangeHRM
-├── README.md
 
 
 
